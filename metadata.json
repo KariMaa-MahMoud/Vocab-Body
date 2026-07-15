@@ -1,0 +1,6 @@
+{
+  "name": "Vocab Buddy",
+  "description": "An educational application to help students learn English vocabulary interactively, tailored to different ages and difficulty levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
